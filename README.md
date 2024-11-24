@@ -14,8 +14,6 @@ Installation
 Clone the Repository
 
 bash
-Copy code
-git clone https://github.com/yourusername/ai-python-code-reviewer.git
 cd ai-python-code-reviewer
 Install Required Libraries
 Install dependencies using pip:
